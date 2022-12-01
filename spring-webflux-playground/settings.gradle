@@ -1,0 +1,3 @@
+rootProject.name = 'spring-webflux-playground'
+include 'apiclient-calls'
+
